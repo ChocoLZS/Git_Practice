@@ -12,4 +12,4 @@
 >
 > 5. git commit -m "content" 提交修改至仓库
 
-↑↑↓↓←→←→BABA
+↑↑↓↓←→←→baba
