@@ -13,3 +13,5 @@
 > 5. git commit -m "content" 提交修改至仓库
 
 ↑↑↓↓←→←→baba
+
+test for gpg in dev_a
