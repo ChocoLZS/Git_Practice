@@ -14,4 +14,4 @@
 
 ↑↑↓↓←→←→baba
 
-test for gpg in dev_a
+test for gpg in 
